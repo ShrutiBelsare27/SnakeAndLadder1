@@ -43,6 +43,7 @@ namespace SnakeAndLadder1
             UC7TwoPlayer obj7 = new UC7TwoPlayer();
             obj7.throwDice();
             obj7.checkForOption();
+            obj7.oneplayer();
             obj7.twoplayer();
         }
     }
